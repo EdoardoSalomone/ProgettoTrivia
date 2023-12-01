@@ -1,0 +1,7 @@
+body{
+    min-height: 100vh;
+    background-color:lightslategrey;
+}
+.row {
+    height: 50vh;
+}
